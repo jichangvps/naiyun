@@ -1,6 +1,6 @@
 # 奈云机场 - 稳定高速的节点代理服务
 
-> **最新国内可直达官网地址**：[https://go.clashshome.com/naiyun](https://go.clashshome.com/naiyun)
+> **最新国内可直达官网地址**：[奈云国内最新官网入口](https://go.clashshome.com/naiyun)
 
 ## 🌟 项目简介
 
